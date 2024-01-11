@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,600;1,700;1,800&display=swap');
+
+:root{
+  --green: #00A76F;
+  --yellow: #FFAB00;
+  --aqua: #00B8D9;
+  --blue: #0070F4;
+  --red: #FF5630;
+}
+.login-link {
+  color: var(--green);
+  text-decoration: none;
+  font-weight: 400;
+}
+.login-link:hover {
+  text-decoration: underline;
+}

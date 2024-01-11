@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+.App,
+.content {
+  height: 100%;
+  width: 100%;
+  font-family: "Public Sans", sans-serif;
+}
+.App {
+  display: flex;
+  position: relative;
+  background-color:#fcfeff;
+}
